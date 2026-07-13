@@ -1,4 +1,5 @@
 site_name: "Mathilde BOCQUET"
+logo: images/IMG_2028.png
 theme:
   name: material
   palette:
@@ -25,3 +26,4 @@ nav:
   - Colles: 
       - MPSI: colles/mpsi.md
       - MP*: colles/mp.md
+  
