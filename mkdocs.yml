@@ -26,4 +26,5 @@ nav:
   - Colles: 
       - MPSI: colles/mpsi.md
       - MP*: colles/mp.md
+  - Motivation: motivation.md
   
