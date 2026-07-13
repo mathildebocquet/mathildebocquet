@@ -1,7 +1,6 @@
 site_name: "Florent MICHEL"
 theme:
   name: material
-  custom_dir: overrides
   palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
