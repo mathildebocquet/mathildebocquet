@@ -27,6 +27,10 @@ nav:
       - MPSI: colles/mpsi.md
       - MP*: colles/mp.md
   - Cours et TD MPSI: cours.md
+  - Agrégation:
+      - Leçons: agregation/leçons.md
+      - Développements: agregation/developpements.md
+      - Livres utilisés: agregation/livresagreg.md
   - Ressources:
       - Sites amis: ressources/sitesamis.md
       - Ressources pour les préparationnaires: ressources/pourprepa.md
